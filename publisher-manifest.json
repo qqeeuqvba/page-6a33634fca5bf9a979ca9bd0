@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "b2999675615a00b4410b6e66",
+  "owner": "qqeeuqvba",
+  "repo": "page-6a33634fca5bf9a979ca9bd0",
+  "title": "UU加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6a33634fca5bf9a979ca9bd0",
+      "a": "UU加速器",
+      "b": "",
+      "entity": "UU加速器",
+      "brand": "UU加速器",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b8fe9d5924b3b7a3b36127b6506296370d5c54d871268053dee88087bacf572e",
+      "content": {
+        "keyword1": "UU加速器",
+        "keyword2": "",
+        "primary_entity": "UU加速器",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "UU加速器为多设备、多场景提供稳定的网络加速方案。套餐清晰、节点明确、支持团队与企业定制，按需选择即可。",
+          "AI_DESCRIPTION": "UU加速器为多设备、多场景提供稳定的网络加速方案。套餐清晰、节点明确、支持团队与企业定制，按需选择即可。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#0a2440;--bg2:#0d2c4d;--ink:#f5f7fb;--muted:#9bb4d4;--amber:#f5a623;--amber2:#ffb84d;--card:#123a63;--line:rgba(155,180,212,.18)}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.6;font-size:15px}\na{color:var(--amber);text-decoration:none}\n.container{max-width:1100px;margin:0 auto;padding:0 20px}\n\n/* nav */\n.nav{display:flex;flex-wrap:wrap;gap:6px 10px;padding:10px 0 0;justify-content:flex-start}\n.nav a{color:var(--ink);background:rgba(245,166,35,.10);border:1px solid rgba(245,166,35,.35);padding:5px 12px;border-radius:999px;font-size:13px}\n\n/* hero magazine grid */\n.hero{background:var(--bg);border-bottom:1px solid var(--line)}\n.hero-grid{display:grid;grid-template-columns:repeat(12,1fr);gap:20px;padding:48px 0 40px}\n.brandmark{grid-column:span 12;font-size:14px;letter-spacing:.2em;color:var(--amber);text-transform:uppercase}\n.hero-title{grid-column:span 12;font-size:46px;line-height:1.1;margin:0;font-weight:800}\n.hero-title .accent{color:var(--amber)}\n.hero-lead{grid-column:span 7;color:var(--muted);font-size:16px}\n.hero-side{grid-column:span 5;border-left:2px solid var(--amber);padding-left:16px;color:var(--ink);font-size:15px}\n.hero-meta{grid-column:span 12;display:flex;flex-wrap:wrap;gap:24px;margin-top:8px;color:var(--muted);font-size:13px}\n.hero-meta b{display:block;color:var(--amber);font-size:20px;font-weight:700}\n\n/* section */\nsection{padding:56px 0;border-bottom:1px solid var(--line)}\nh2{font-size:26px;margin:0 0 20px;font-weight:700}\nh2 .sub{display:block;color:var(--muted);font-size:13px;font-weight:400;margin-top:4px}\np{margin:0 0 12px}\n\n/* cards */\n.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px}\n.card{background:var(--card);border-radius:18px;box-shadow:0 10px 30px rgba(0,0,0,.25);padding:22px}\n.card h3{margin:0 0 8px;font-size:18px}\n.card p{color:var(--muted);font-size:14px;margin:0}\n\n/* steps */\n.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}\n.step{background:var(--bg2);border-radius:18px;box-shadow:0 8px 22px rgba(0,0,0,.22);padding:20px}\n.step .num{display:inline-block;background:var(--amber);color:#0a2440;font-weight:700;border-radius:10px;padding:2px 10px;font-size:13px;margin-bottom:10px}\n\n/* plans ladder */\n.plans{display:grid;gap:16px}\n.plan{display:grid;grid-template-columns:160px 1fr auto;gap:16px;align-items:center;background:var(--card);border-radius:18px;box-shadow:0 10px 28px rgba(0,0,0,.25);padding:18px 20px}\n.plan.featured{border:1px solid var(--amber);background:linear-gradient(180deg,#163f6c,#123a63)}\n.plan .name{font-weight:700;font-size:18px}\n.plan .price{color:var(--amber);font-size:20px;font-weight:700;white-space:nowrap}\n.plan .feat{color:var(--muted);font-size:14px;margin:0}\n.plan ul{margin:6px 0 0;padding-left:18px;color:var(--ink);font-size:14px}\n.plan ul li{margin:2px 0}\n.tag{display:inline-block;font-size:12px;background:var(--amber);color:#0a2440;border-radius:6px;padding:1px 8px;margin-left:8px;font-weight:700}\n\n/* faq groups */\n.faq-groups{display:grid;gap:24px}\n.faq-group h3{font-size:16px;color:var(--amber);margin:0 0 10px;border-bottom:1px dashed var(--line);padding-bottom:6px}\n.qa{margin:0 0 14px}\n.qa .q{font-weight:600;margin-bottom:4px}\n.qa .a{color:var(--muted);font-size:14px;margin:0}\n\nfooter{padding:32px 0;color:var(--muted);font-size:13px}\n.foot-top{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;margin-bottom:12px}\n\n@media (max-width:720px){\n  .hero-title{font-size:32px}\n  .hero-lead,.hero-side{grid-column:span 12}\n  .plan{grid-template-columns:1fr;gap:6px}\n  .plan .price{text-align:left}\n}\n</style><main class=\"container\">\n\n\n<header class=\"hero\">\n  <nav class=\"nav\" aria-label=\"页面锚点\">\n    <a href=\"#about\">关于</a>\n    <a href=\"#scenarios\">适用场景</a>\n    <a href=\"#usage\">使用步骤</a>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#download\">客户端</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n\n  <div class=\"hero-grid\">\n    <div class=\"brandmark\">UU加速器 · 网络加速工具</div>\n\n    <h1 class=\"hero-title\">UU加速器，把<span class=\"accent\">延迟和卡顿</span>交给它处理。</h1>\n\n    <div class=\"hero-lead\">\n      面向个人玩家、家庭多设备和团队协作场景。UU加速器提供稳定的多线路加速、流媒体区域访问和游戏路由优化。按月或按年订阅，随时调整。\n    </div>\n\n    <aside class=\"hero-side\">\n      “我们不做花哨的承诺，只做能长期跑的线路。”<br>\n      <span>—— UU加速器产品说明</span>\n    </aside>\n\n    <div class=\"hero-meta\">\n      <div><b>3</b>主力套餐</div>\n      <div><b>20</b>设备上限</div>\n      <div><b>7×24</b>工单支持</div>\n      <div><b>按年</b>更划算</div>\n    </div>\n  </div>\n</header>\n\n\n<section id=\"about\">\n  <h2>关于 UU加速器<span class=\"sub\">简洁利落，只说必要的事</span></h2>\n  <div class=\"cards\">\n    <article class=\"card\">\n      <h3>定位</h3>\n      <p>面向需要稳定加速的普通用户与小团队，提供清晰套餐、明确流量和可预期的线路质量。</p>\n    </article>\n    <article class=\"card\">\n      <h3>线路</h3>\n      <p>普通节点池满足日常访问，旗舰与团队版提供高带宽节点与定制路由，适配游戏与跨境协作。</p>\n    </article>\n    <article class=\"card\">\n      <h3>服务</h3>\n      <p>工单为基础支持方式，旗舰版及以上享优先处理，团队版配备专属客户经理。</p>\n    </article>\n  </div>\n</section>\n\n\n<section id=\"scenarios\">\n  <h2>适用场景<span class=\"sub\">从个人娱乐到团队办公</span></h2>\n  <div class=\"cards\">\n    <article class=\"card\">\n      <h3>游戏加速</h3>\n      <p>旗舰版含 IPLC 专线优化，适合对延迟敏感的竞技类游戏，降低抖动与丢包。</p>\n    </article>\n    <article class=\"card\">\n      <h3>流媒体</h3>\n      <p>基础版解锁基础流媒体，旗舰版支持全节点原生解锁，团队版可定制区域。</p>\n    </article>\n    <article class=\"card\">\n      <h3>多设备</h3>\n      <p>3 台起步，团队版支持 20 台同时在线，覆盖家庭与小型工作室。</p>\n    </article>\n    <article class=\"card\">\n      <h3>企业路由</h3>\n      <p>团队版支持企业定制路由，按业务需求分配线路与带宽。</p>\n    </article>\n  </div>\n</section>\n\n\n<section id=\"usage\">\n  <h2>使用步骤<span class=\"sub\">四步开始使用</span></h2>\n  <div class=\"steps\">\n    <div class=\"step\">\n      <span class=\"num\">01</span>\n      <h3>选择套餐</h3>\n      <p>按设备数量和流量需求，在基础版、旗舰版、团队版中选择。</p>\n    </div>\n    <div class=\"step\">\n      <span class=\"num\">02</span>\n      <h3>安装客户端</h3>\n      <p>在对应平台获取客户端，登录已订阅的账号。</p>\n    </div>\n    <div class=\"step\">\n      <span class=\"num\">03</span>\n      <h3>选择节点</h3>\n      <p>根据用途选择普通节点池或专线节点，客户端会显示可用线路。</p>\n    </div>\n    <div class=\"step\">\n      <span class=\"num\">04</span>\n      <h3>开始加速</h3>\n      <p>连接成功后即可使用，流量与设备数可在账户内查看。</p>\n    </div>\n  </div>\n</section>\n\n\n<section id=\"plans\">\n  <h2>套餐说明<span class=\"sub\">阶梯式递进，按需升级</span></h2>\n  <div class=\"plans\">\n\n    <div class=\"plan\">\n      <div class=\"name\">基础版</div>\n      <div>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </div>\n      <div>\n        <div class=\"price\">¥15/月</div>\n        <p class=\"feat\">按年付仅需 ¥150/年</p>\n      </div>\n    </div>\n\n    <div class=\"plan featured\">\n      <div class=\"name\">旗舰版<span class=\"tag\">推荐</span></div>\n      <div>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7×24 优先工单支持</li>\n        </ul>\n      </div>\n      <div>\n        <div class=\"price\">¥35/月</div>\n        <p class=\"feat\">按年付仅需 ¥350/年</p>\n      </div>\n    </div>\n\n    <div class=\"plan\">\n      <div class=\"name\">团队版</div>\n      <div>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </div>\n      <div>\n        <div class=\"price\">¥85/月</div>\n        <p class=\"feat\">按年付仅需 ¥850/年</p>\n      </div>\n    </div>\n\n  </div>\n</section>\n\n\n<section id=\"download\">\n  <h2>客户端<span class=\"sub\">登录后即可使用</span></h2>\n  <div class=\"cards\">\n    <article class=\"card\">\n      <h3>Windows</h3>\n      <p>适配桌面端游戏与流媒体场景，支持节点切换与流量查看。</p>\n      <p><a href=\"#\">获取客户端</a></p>\n    </article>\n    <article class=\"card\">\n      <h3>macOS</h3>\n      <p>适配苹果桌面环境，与 Windows 账号通用。</p>\n      <p><a href=\"#\">获取客户端</a></p>\n    </article>\n    <article class=\"card\">\n      <h3>移动端</h3>\n      <p>支持手机与平板，可纳入套餐设备数计数。</p>\n      <p><a href=\"#\">获取客户端</a></p>\n    </article>\n  </div>\n  <p>说明：具体平台与版本以官方发布为准，本页不提供直接交易或下载承诺。</p>\n</section>\n\n\n<section id=\"faq\">\n  <h2>常见问题<span class=\"sub\">按主题分组</span></h2>\n\n  <div class=\"faq-groups\">\n\n    <div class=\"faq-group\">\n      <h3>套餐与流量</h3>\n      <div class=\"qa\">\n        <p class=\"q\">流量用完了怎么办？</p>\n        <p class=\"a\">可升级到更高套餐或等待下月重置，团队版支持客户经理协助调整。</p>\n      </div>\n      <div class=\"qa\">\n        <p class=\"q\">能否按年付费？</p>\n        <p class=\"a\">可以，各套餐均提供按年付费选项，价格分别为 ¥150/年、¥350/年、¥850/年。</p>\n      </div>\n      <div class=\"qa\">\n        <p class=\"q\">套餐之间可以升降级吗？</p>\n        <p class=\"a\">支持，按差价或剩余周期处理，具体以账户内提示为准。</p>\n      </div>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>设备与使用</h3>\n      <div class=\"qa\">\n        <p class=\"q\">一台账号能登录几台设备？</p>\n        <p class=\"a\">基础版 3 台，旗舰版 5 台，团队版 20 台，同时在线受套餐限制。</p>\n      </div>\n      <div class=\"qa\">\n        <p class=\"q\">移动端和桌面端共用流量吗？</p>\n        <p class=\"a\">共用同一账户的月度流量池。</p>\n      </div>\n      <div class=\"qa\">\n        <p class=\"q\">换了设备要重新订阅吗？</p>\n        <p class=\"a\">不需要，账号登录后即可在新设备上使用。</p>\n      </div>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>线路与支持</h3>\n      <div class=\"qa\">\n        <p class=\"q\">游戏加速用哪个套餐合适？</p>\n        <p class=\"a\">推荐旗舰版，含 IPLC 专线优化，适合对延迟敏感的竞技游戏。</p>\n      </div>\n      <div class=\"qa\">\n        <p class=\"q\">遇到线路问题怎么反馈？</p>\n        <p class=\"a\">通过工单提交，旗舰版及以上享优先处理。</p>\n      </div>\n      <div class=\"qa\">\n        <p class=\"q\">团队版支持哪些定制？</p>\n        <p class=\"a\">支持企业定制路由与专属高带宽节点，并可由客户经理协助配置。</p>\n      </div>\n    </div>\n\n  </div>\n</section>\n\n<footer>\n  <div class=\"foot-top\">\n    <span>UU加速器 · 网络加速工具</span>\n    <span>套餐、价格与节点以官方为准</span>\n  </div>\n  <div>本页内容为产品说明，不构成交易承诺。</div>\n</footer>\n\n</main>",
+          "hash": "8231e577b06f708e07ec86a27f6ed6ca0a9cb6e6c4df57595c1d033379d0dfdf",
+          "seo": {
+            "title": "UU加速器 - 专注网络加速的实用工具",
+            "keywords": "UU加速器,网络加速,游戏加速,流媒体解锁,多设备加速",
+            "description": "UU加速器为多设备、多场景提供稳定的网络加速方案。套餐清晰、节点明确、支持团队与企业定制，按需选择即可。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "8882",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "swker.cn",
+    "host": "p-16bf3765dc.swker.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "72d3ee0e07de80a58d195e0260ef6f2b59e3e40c3f7319f132602bdd025ad715",
+    "sitemap.xml": "485d86dbfe1bc116b07d9f30e300eb6a40c4516593ad3e79a812fb82dc20397e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a49c39381166841399e5bfae4e4eb2ccef8c5c5305c1ded247bd9a3cce17086f",
+    "robots.txt": "96c58dfe83661638a043aa20a20ff68cb9b582b00cc083ad2f5f1bfdfa97ea38",
+    "a20c3ba9fbede96ce6a14ec93a3f971b.txt": "2f7b4dcda128e290077e1795c67a8fc63b545227a806fdd5f5740d219813343c"
+  },
+  "revision": "79025200d8e006d9cd3292bb2e62ab4c0f86b57c887426b9bab2a28d48141b08"
+}
